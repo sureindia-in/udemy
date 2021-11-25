@@ -1,5 +1,5 @@
 <h1> Hello, Welcome to Simple Devops Project !! </h1>
-<h2> Deploying on a VM </h2>
+<h2> Deploying on a VM Suresh Kannan</h2>
 
 <form action="action_page.php">
   <div class="container">
