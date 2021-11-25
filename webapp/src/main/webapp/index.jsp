@@ -1,3 +1,6 @@
+<h1> Hello, Welcome to Simple Devops Project !! </h1>
+<h2> Deploying on a VM </h2>
+
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
